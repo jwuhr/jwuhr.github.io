@@ -247,21 +247,21 @@ hr {
 }
 
 .circle_inner.ione {
-    background-image: url(./assets/images/youtube_image.jpg);
+    background-image: url(./assets/images/deep_learning.jpeg);
     background-size: cover;
     background-position: left top;
     background-repeat: no-repeat;
 }
 
 .circle_inner.itwo {
-    background-image: url(./assets/images/btc_image.jpg);
+    background-image: url(./assets/images/youtube_image.jpg);
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
 }
 
 .circle_inner.ithree {
-    background-image: url(./assets/images/Tetris.png);
+    background-image: url(./assets/images/btc_image.jpg);
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
